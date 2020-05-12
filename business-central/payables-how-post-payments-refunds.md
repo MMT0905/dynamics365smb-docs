@@ -13,7 +13,7 @@ ms.date: 04/01/2020
 ms.author: edupont
 
 ---
-# Record Payments and Refunds in the Payment Journal
+# Record Payments and Refunds in the Payment Journal.
 
 On the **Payment Journal** page, you record payments that you make to vendors and refunds that you make to customers. When you post a payment journal line, the paid amount is recorded on the specified system bank account. You must then take steps to perform the actual money transfer from the related bank account.  
 
